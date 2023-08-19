@@ -1,5 +1,4 @@
-# APCS-Final-Project
-
+# Maze Generator
 My final project for my high school AP Computer Science class written in C++ using SFML.
 
 The project can be build on windows (assuming cmake is installed) by running build.bat. 
